@@ -1,0 +1,42 @@
+*{
+	padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+
+#videobg{
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+    opacity: 0.8;
+}
+
+.base{
+    margin: 0px;
+}
+
+.home_content{
+    position: absolute;
+    color: #fff;
+}
+
+.menu{
+    text-align: right;
+}
+
+.menu li{
+    text-transform: uppercase;
+    display: inline;
+    padding: 5px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.herotext{
+    text-align: center;
+    margin: 20px;
+}
